@@ -1,8 +1,8 @@
 [user]
-	name = Dan Lofquist
-	email = dan.lofquist@input-consulting.se
+	name = [name]
+	email = [email]
 [core]
-	excludesfile = /Users/Dan/.gitignore_global
+	excludesfile = /Users/[user]/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
