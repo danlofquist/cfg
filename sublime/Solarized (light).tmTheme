@@ -1745,7 +1745,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Java: /* comment */</string>
+			<string>Java: /* comment! */</string>
 			<key>scope</key>
 			<string>source.java comment.block</string>
 			<key>settings</key>
